@@ -1,0 +1,23 @@
+2022-03-24 18:42:06 - PHP Warning:  Packets out of order. Expected 0 received 1. Packet size=%Id in C:\xampp\htdocs\opencart\upload\system\library\db\mysqli.php on line 12
+2022-03-24 18:42:06 - PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=3316 in C:\xampp\htdocs\opencart\upload\system\library\db\mysqli.php on line 12
+2022-03-24 18:42:06 - PHP Warning:  mysqli::__construct(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\opencart\upload\system\library\db\mysqli.php on line 12
+2022-03-24 18:42:06 - Error:  mysqli object is already closed in C:\xampp\htdocs\opencart\upload\system\library\db\mysqli.php on line 16
+2022-03-24 18:42:47 - PHP Warning:  Packets out of order. Expected 0 received 1. Packet size=%Id in C:\xampp\htdocs\opencart\upload\system\library\db\mysqli.php on line 12
+2022-03-24 18:42:47 - PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=3316 in C:\xampp\htdocs\opencart\upload\system\library\db\mysqli.php on line 12
+2022-03-24 18:42:47 - PHP Warning:  mysqli::__construct(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\opencart\upload\system\library\db\mysqli.php on line 12
+2022-03-24 18:42:47 - Error:  mysqli object is already closed in C:\xampp\htdocs\opencart\upload\system\library\db\mysqli.php on line 16
+2022-03-24 18:44:05 - PHP Warning:  Packets out of order. Expected 0 received 1. Packet size=%Id in C:\xampp\htdocs\opencart\upload\system\library\db\mysqli.php on line 12
+2022-03-24 18:44:05 - PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=10888 in C:\xampp\htdocs\opencart\upload\system\library\db\mysqli.php on line 12
+2022-03-24 18:44:05 - PHP Warning:  mysqli::__construct(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\opencart\upload\system\library\db\mysqli.php on line 12
+2022-03-24 18:44:05 - Error:  mysqli object is already closed in C:\xampp\htdocs\opencart\upload\system\library\db\mysqli.php on line 16
+2022-03-24 18:45:17 - PHP Warning:  Packets out of order. Expected 0 received 1. Packet size=%Id in C:\xampp\htdocs\opencart\upload\system\library\db\mysqli.php on line 12
+2022-03-24 18:45:17 - PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=10888 in C:\xampp\htdocs\opencart\upload\system\library\db\mysqli.php on line 12
+2022-03-24 18:45:17 - PHP Warning:  mysqli::__construct(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\opencart\upload\system\library\db\mysqli.php on line 12
+2022-03-24 18:45:17 - Error:  mysqli object is already closed in C:\xampp\htdocs\opencart\upload\system\library\db\mysqli.php on line 16
+2022-03-24 18:48:27 - PHP Warning:  Packets out of order. Expected 0 received 1. Packet size=%Id in C:\xampp\htdocs\opencart\upload\system\library\db\mysqli.php on line 12
+2022-03-24 18:48:27 - PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=10888 in C:\xampp\htdocs\opencart\upload\system\library\db\mysqli.php on line 12
+2022-03-24 18:48:27 - PHP Warning:  mysqli::__construct(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\opencart\upload\system\library\db\mysqli.php on line 12
+2022-03-24 18:48:27 - Error:  mysqli object is already closed in C:\xampp\htdocs\opencart\upload\system\library\db\mysqli.php on line 16
+2022-03-24 18:51:01 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'svudb' in C:\xampp\htdocs\opencart\upload\system\library\db\mysqli.php on line 12
+2022-03-24 18:51:01 - Error:  mysqli object is already closed in C:\xampp\htdocs\opencart\upload\system\library\db\mysqli.php on line 16
+2022-03-24 20:03:03 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\opencart\upload\system\library\mail\mail.php on line 95
